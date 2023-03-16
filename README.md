@@ -1,0 +1,2 @@
+# openai
+Configurando uma OpenAI
